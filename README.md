@@ -1,4 +1,4 @@
-# IndexforPasswordStrength-IPS-
+# Index for Password Strength (IPS)
 ## Overview
 Index for Password Strength (IPS) is a C++ command-line program that evaluates
 the strength of a user-provided password using a custom scoring system. The
