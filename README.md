@@ -23,7 +23,7 @@ loops, conditionals, and algorithmic reasoning.
  
 ## Technologies Used
 - Language: C++
-- Libraries: <iostream>, <vector>, <string>, <algorithm>, <cmath>
+- Libraries: /<iostream/>, <vector>, <string>, <algorithm>, <cmath>
 - Concepts: STL usage, input validation, scoring algorithms, security logic
 
 ## How it Works
