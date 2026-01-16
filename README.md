@@ -9,6 +9,8 @@ This project was developed as part of C++ coursework and demonstrates
 practical use of core C++ concepts including STL containers, string processing,
 loops, conditionals, and algorithmic reasoning.
 
+---
+
 ## Features
 - Enforces password length constraints (8-15 chars)
 - Evaluates 4 independent security factors:
@@ -20,11 +22,15 @@ loops, conditionals, and algorithmic reasoning.
    - Individual Factor Scores (out of 100)
    - Final IPS Score (out of 100)
    - Clear explainations of detected weaknesses
- 
+
+---
+
 ## Technologies Used
 - Language: C++
 - Libraries: iostream, vector, string, algorithm, cmath
 - Concepts: STL usage, input validation, scoring algorithms, security logic
+
+---
 
 ## How it Works
 The IPS score is computed by averaging four factors:
@@ -33,6 +39,8 @@ The IPS score is computed by averaging four factors:
   3. Repetition Factor – penalizes repeated characters
   4. Complexity Factor – rewards variation and penalizes predictable patterns
 Each factor is scored independently out of 100.
+
+---
 
 ## How to Run (Online Compiler)
   1. Go to https://www.programiz.com/cpp-programming/online-compiler/
