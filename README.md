@@ -47,6 +47,8 @@ Each factor is scored independently out of 100.
   2. Copy and paste the code in `ips.cpp`
   3. Run the program, it will prompt you for a password and provides feedback on it
 
+---
+
 ## How to Run (C++ Compiler)
   1. Compile the `ips.cpp` Program (Make sure to use a C++ compiler), for exp: `g++ ips.cpp -o ips`
   2. Run the program: `./ips`
