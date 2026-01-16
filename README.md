@@ -40,7 +40,7 @@ Each factor is scored independently out of 100.
   3. Run the program, it will prompt you for a password and provides feedback on it
 
 ## How to Run (C++ Compiler)
-  1. Compile the Program (Make sure to use a C++ compiler) ~ g++ ips.cpp -o ips
-  2. Run the program ~ ./ips
+  1. Compile the Program (Make sure to use a C++ compiler): `g++ ips.cpp -o ips`
+  2. Run the program: `./ips`
   3. The program will prompt with you a password and provides feedback on it
   
